@@ -124,7 +124,7 @@ text-decoration: none;
   justify-content: space-between;
 }
 .card-image{
-max-width: 100%;
+min-width: 100%;
 
 }
 .card-text{
